@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercalculate",
+        "uuid": 9767490,
+        "checksum": "bm74n"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
